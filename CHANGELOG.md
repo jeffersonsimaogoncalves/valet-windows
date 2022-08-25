@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.5.1 - 2022-08-25
+
+- Fixed Xdebug download error [#201](https://github.com/cretueusebiu/valet-windows/pull/201)
+
 ## 2.5.0 - 2022-02-18
 
 - Update Acrylic DNS Proxy.
